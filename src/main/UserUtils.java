@@ -13,4 +13,5 @@ public class UserUtils {
     String name, email, password;
     Long id_user;
     
+    public static void addUser() {}
 }
